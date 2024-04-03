@@ -1,3 +1,7 @@
+Very basic and raw Calculator app using react(bugs in the subtraction sign, fixing will be appreciated)
+very repetitive and non optimal code
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
